@@ -1,0 +1,112 @@
+{
+	"ModelProperties": [
+		{
+			"ModelName": "Beholder01",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [-60.0, 20.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 1.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.1, 0.85]
+		},
+		{
+			"ModelName": "Falcon",
+			"FilePath": "Falcon_Body_054217_verts_uv.ply",
+			"Position": [-80.0, 0.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.06,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.85, 0.1, 0.1]
+		},
+		{
+			"ModelName": "Beholder02",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [80.0, -20.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 1.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.1]
+		},
+		{
+			"ModelName": "Beholder03",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [100.0, -20.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 1.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.1]
+		},
+		{
+			"ModelName": "Beholder04",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [-100.0, -20.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 1.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.1]
+		},
+		{
+			"ModelName": "Beholder05",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [90.0, -20.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 1.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.1]
+		},
+		{
+			"ModelName": "Explosion",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [0.0, 0.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.65, 0.0]
+		}
+	],
+	"LightProperties": [
+		{
+			"LightId": 0,
+			"bLightOn": true, 
+			"LightType": 2.0,
+			"LinearAttenuation": 0.1,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [0.0, 30.0, 0.0],
+			"LightDirection": [0.0, -1.0, 0.0],
+			"LightColor": [1.0, 1.0, 1.0]
+		}
+	],
+	"CameraProperties": {
+		"CameraPosition": [0.0, 0.0, 100.0]
+	}
+}
